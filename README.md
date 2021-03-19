@@ -1,4 +1,7 @@
 ### Hi there 👋
+I Am Himansu 
+I Learn GitHub For First Time
+I Am A Beginer
 
 <!--
 **Himansu-97/Himansu-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
